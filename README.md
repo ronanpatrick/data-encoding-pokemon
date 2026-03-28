@@ -22,7 +22,7 @@ This notebook specifically highlights the distinction between nominal and ordina
 
 ### Option 1: Run in Cloud (Recommended)
 You can view and run this notebook instantly in your browser using Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/categorical-data-encoding/blob/main/Encoding_pokemon.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronanpatrick/data-encoding-pokemon/blob/main/Encoding_pokemon.ipynb)
 
 *(Note: To run the notebook in Colab, ensure you upload the `pokemon.csv` dataset to the session storage or update the pandas read path to the raw GitHub URL).*
 
