@@ -1,7 +1,7 @@
 # Categorical Data Encoding with Scikit-Learn
 
-## Project Overview
-This project focuses on a crucial step in the Machine Learning pipeline: **Feature Engineering**. Using a comprehensive Pokémon dataset, this notebook demonstrates how to properly convert categorical text data into numerical formats that machine learning algorithms can process, utilizing Scikit-Learn's preprocessing tools.
+## Overview
+This activity focuses on a crucial step in the Machine Learning pipeline: **Feature Engineering**. Using a comprehensive Pokémon dataset, this notebook demonstrates how to properly convert categorical text data into numerical formats that machine learning algorithms can process, utilizing Scikit-Learn's preprocessing tools.
 
 ## Dataset
 * **Source File:** `pokemon.csv`
